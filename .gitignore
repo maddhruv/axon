@@ -1,0 +1,8 @@
+node_modules/
+dist/
+*.tsbuildinfo
+.axon/
+.superhuman/
+.agents/
+skills-lock.json
+.claude/settings.local.json
